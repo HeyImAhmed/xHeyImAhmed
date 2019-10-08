@@ -1,5 +1,5 @@
 owner=548458209061371904
-prefix=+
+prefix=
 game=Owner ! - Ahmed
 
 stayinchannel=true
