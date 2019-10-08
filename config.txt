@@ -1,0 +1,7 @@
+owner=548458209061371904
+prefix=+
+game=Owner ! - Ahmed
+
+stayinchannel=true
+songinstatus=false
+token=NDcyNzY2OTk1NDgyNTQyMDgx.XZMZsw.Cc8d-hQN1GIq_Hy1QWEMwnxrUVo
